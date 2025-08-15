@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\bin\Debug\net8.0\ECommerceApp.exe
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\bin\Debug\net8.0\ECommerceApp.deps.json
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\bin\Debug\net8.0\ECommerceApp.runtimeconfig.json
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\bin\Debug\net8.0\ECommerceApp.dll
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\bin\Debug\net8.0\ECommerceApp.pdb
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\obj\Debug\net8.0\ECommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\obj\Debug\net8.0\ECommerceApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\obj\Debug\net8.0\ECommerceApp.AssemblyInfo.cs
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\obj\Debug\net8.0\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\obj\Debug\net8.0\ECommerceApp.sourcelink.json
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\obj\Debug\net8.0\ECommerceApp.dll
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\obj\Debug\net8.0\refint\ECommerceApp.dll
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\obj\Debug\net8.0\ECommerceApp.pdb
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\obj\Debug\net8.0\ECommerceApp.genruntimeconfig.cache
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\ECommerceApp\obj\Debug\net8.0\ref\ECommerceApp.dll
