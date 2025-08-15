@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\bin\Debug\net8.0\StudentApp.exe
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\bin\Debug\net8.0\StudentApp.deps.json
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\bin\Debug\net8.0\StudentApp.runtimeconfig.json
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\bin\Debug\net8.0\StudentApp.dll
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\bin\Debug\net8.0\StudentApp.pdb
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\obj\Debug\net8.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\obj\Debug\net8.0\StudentApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\obj\Debug\net8.0\StudentApp.AssemblyInfo.cs
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\obj\Debug\net8.0\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\obj\Debug\net8.0\StudentApp.sourcelink.json
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\obj\Debug\net8.0\StudentApp.dll
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\obj\Debug\net8.0\refint\StudentApp.dll
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\obj\Debug\net8.0\StudentApp.pdb
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\obj\Debug\net8.0\StudentApp.genruntimeconfig.cache
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\StudentApp\obj\Debug\net8.0\ref\StudentApp.dll
