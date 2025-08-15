@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\bin\Debug\net8.0\WarehouseApp.exe
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\bin\Debug\net8.0\WarehouseApp.deps.json
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\bin\Debug\net8.0\WarehouseApp.runtimeconfig.json
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\bin\Debug\net8.0\WarehouseApp.dll
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\bin\Debug\net8.0\WarehouseApp.pdb
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\obj\Debug\net8.0\WarehouseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\obj\Debug\net8.0\WarehouseApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\obj\Debug\net8.0\WarehouseApp.AssemblyInfo.cs
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\obj\Debug\net8.0\WarehouseApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\obj\Debug\net8.0\WarehouseApp.sourcelink.json
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\obj\Debug\net8.0\WarehouseApp.dll
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\obj\Debug\net8.0\refint\WarehouseApp.dll
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\obj\Debug\net8.0\WarehouseApp.pdb
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\obj\Debug\net8.0\WarehouseApp.genruntimeconfig.cache
+C:\Users\DELL\Documents\School\DCIT 308 - DATA STRUCTURES AND ALGORITHMS\dcit318-assignment3-11348827\WarehouseApp\obj\Debug\net8.0\ref\WarehouseApp.dll
